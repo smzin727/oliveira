@@ -1,0 +1,14 @@
+body {
+    color: rgb(255, 51, 0) ; 
+    font-family: Arial;
+    line-height: 1.6;
+    padding: 20px;
+    
+    /* NOVAS PROPRIEDADES PARA A CAIXA */
+    border: 2px solid rgb(255, 51, 0); 
+    border-radius: 10px; /* Cantos arredondados */
+    max-width: 600px; /* Largura máxima */
+    background-color: #e9f4e8; /* Fundo cinza claro */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+    padding: 25px; /* Espaçamento interno maior */
+}
